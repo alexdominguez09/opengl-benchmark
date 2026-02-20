@@ -107,4 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Alex Dominguez - [alexdominguez09](https://github.com/alexdominguez09)
+A. D. Sanchez - [alexdominguez09](https://github.com/alexdominguez09)
