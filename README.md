@@ -2,7 +2,7 @@
 
 A high-performance OpenGL benchmark that stresses the GPU with millions of triangles per frame, featuring normal mapping, multiple dynamic lights, and real-time performance metrics.
 
-![Benchmark Screenshot](screenshot.png)
+![Benchmark Screenshot](benchmark_image.png)
 
 ## What It Does
 
