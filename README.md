@@ -104,7 +104,3 @@ Point lights: 8
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-A. D. Sanchez - [alexdominguez09](https://github.com/alexdominguez09)
